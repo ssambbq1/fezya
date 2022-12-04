@@ -9,6 +9,6 @@ class Person {
 }
 
 Person.sayHi();
-
+console.log("hello")
 //const me = New Person('Lee');
 //me.sayHi();
